@@ -68,7 +68,7 @@ RUN cd /opt \
     && mv /opt/soar /opt/archery/src/plugins/ \
     && mv /opt/tmp_binlog2sql /opt/archery/src/plugins/binlog2sql
 
-
+1
 ENV LANG en_US.UTF-8
 ENV LC_ALL zh_CN.utf8
 
